@@ -1,0 +1,10 @@
+:root{
+    --primary-font:'Aboreto', cursive;
+    --secondary-font: 'Raleway', sans-serif;
+}
+h1, nav{
+    font-family: var(--primary-font);
+}
+p{
+    font-family: var(--secondary-font);
+}
